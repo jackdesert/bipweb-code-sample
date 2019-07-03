@@ -1,8 +1,8 @@
 LICENSE
 
-This software is published only for the purposes of code review.
-You may run this software on a local machine or in the cloud.
+This software is published only for the purposes of code review,
+and requires the rest of the rails app in order to run.
 
-NO permission is granted to run this software in a production
+NO permission is granted to use this software in a production
 environment. Please contact BIP if you wish to purchase
 a more permissive license.
